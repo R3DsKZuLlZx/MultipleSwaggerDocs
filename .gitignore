@@ -1,0 +1,8 @@
+bin/
+obj/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+!.idea/.idea.MultipleSwaggerDocs/.idea/runConfigurations
+*.DotSettings.user
+appsettings.Development.json
